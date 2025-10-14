@@ -1,0 +1,30 @@
+Iteration 0: loss=0.701, reward_mean=26.7, reward_bound=28.0
+Iteration 1: loss=0.683, reward_mean=24.4, reward_bound=26.0
+Iteration 2: loss=0.678, reward_mean=27.2, reward_bound=33.0
+Iteration 3: loss=0.656, reward_mean=26.6, reward_bound=22.5
+Iteration 4: loss=0.643, reward_mean=49.3, reward_bound=60.0
+Iteration 5: loss=0.644, reward_mean=41.6, reward_bound=44.5
+Iteration 6: loss=0.626, reward_mean=56.4, reward_bound=64.5
+Iteration 7: loss=0.608, reward_mean=65.2, reward_bound=75.5
+Iteration 8: loss=0.617, reward_mean=48.6, reward_bound=56.0
+Iteration 9: loss=0.588, reward_mean=43.2, reward_bound=60.5
+Iteration 10: loss=0.614, reward_mean=63.3, reward_bound=74.5
+Iteration 11: loss=0.578, reward_mean=61.2, reward_bound=75.5
+Iteration 12: loss=0.610, reward_mean=67.1, reward_bound=78.0
+Iteration 13: loss=0.594, reward_mean=70.7, reward_bound=67.5
+Iteration 14: loss=0.589, reward_mean=66.3, reward_bound=69.0
+Iteration 15: loss=0.572, reward_mean=59.5, reward_bound=67.5
+Iteration 16: loss=0.575, reward_mean=73.1, reward_bound=86.5
+Iteration 17: loss=0.567, reward_mean=65.6, reward_bound=64.0
+Iteration 18: loss=0.571, reward_mean=105.6, reward_bound=128.0
+Iteration 19: loss=0.559, reward_mean=65.4, reward_bound=73.5
+Iteration 20: loss=0.568, reward_mean=71.8, reward_bound=73.0
+Iteration 21: loss=0.588, reward_mean=88.9, reward_bound=102.0
+Iteration 22: loss=0.554, reward_mean=100.4, reward_bound=105.5
+Iteration 23: loss=0.564, reward_mean=113.6, reward_bound=149.5
+Iteration 24: loss=0.555, reward_mean=100.3, reward_bound=125.5
+Iteration 25: loss=0.560, reward_mean=139.8, reward_bound=176.5
+Iteration 26: loss=0.558, reward_mean=170.6, reward_bound=195.0
+Iteration 27: loss=0.554, reward_mean=220.2, reward_bound=264.5
+Solved!
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

@@ -1,0 +1,53 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            kqyilfpbiuhtmg3p7ib90n6zaff4r18g:
+                codePath: examples\M3-1_Example_1 (NN on CartPole).ipynb
+                codePathLocal: M3-1_Example_1 (NN on CartPole).ipynb
+                cpu_count: 10
+                cpu_count_logical: 16
+                cudaVersion: "12.7"
+                disk:
+                    /:
+                        total: "510683058176"
+                        used: "201714425856"
+                email: victorbrr17@gmail.com
+                executable: c:\Users\victo\anaconda3\envs\myenv\python.exe
+                git:
+                    commit: 92582101d63bb9230979e5c2513e3daf32a495f0
+                    remote: https://github.com/victorbrr17/Paradigms.git
+                gpu: NVIDIA GeForce RTX 3050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 2048
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce RTX 3050 Laptop GPU
+                      uuid: GPU-b41f6ac5-405f-0f45-c25b-8011bdf3a682
+                host: Asus17
+                memory:
+                    total: "16782184448"
+                os: Windows-10-10.0.26100-SP0
+                program: c:\Users\victo\OneDrive\Escriptori\3r\Paradigms\examples\M3-1_Example_1 (NN on CartPole).ipynb
+                python: CPython 3.10.18
+                root: c:\Users\victo\OneDrive\Escriptori\3r\Paradigms\examples
+                startedAt: "2025-10-14T14:45:32.492117Z"
+                writerId: kqyilfpbiuhtmg3p7ib90n6zaff4r18g
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 61
+            "4": 3.10.18
+            "5": 0.22.2
+            "8":
+                - 1
+                - 3
+            "12": 0.22.2
+            "13": windows-amd64

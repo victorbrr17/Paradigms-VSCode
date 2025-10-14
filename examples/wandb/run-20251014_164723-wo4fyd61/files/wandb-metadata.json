@@ -1,0 +1,40 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.18",
+  "startedAt": "2025-10-14T14:47:23.551369Z",
+  "program": "c:\\Users\\victo\\OneDrive\\Escriptori\\3r\\Paradigms\\examples\\M3-1_Example_1 (NN on CartPole).ipynb",
+  "codePath": "examples\\M3-1_Example_1 (NN on CartPole).ipynb",
+  "codePathLocal": "M3-1_Example_1 (NN on CartPole).ipynb",
+  "git": {
+    "remote": "https://github.com/victorbrr17/Paradigms.git",
+    "commit": "92582101d63bb9230979e5c2513e3daf32a495f0"
+  },
+  "email": "victorbrr17@gmail.com",
+  "root": "c:\\Users\\victo\\OneDrive\\Escriptori\\3r\\Paradigms\\examples",
+  "host": "Asus17",
+  "executable": "c:\\Users\\victo\\anaconda3\\envs\\myenv\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "510683058176",
+      "used": "201899479040"
+    }
+  },
+  "memory": {
+    "total": "16782184448"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-b41f6ac5-405f-0f45-c25b-8011bdf3a682"
+    }
+  ],
+  "cudaVersion": "12.7",
+  "writerId": "9ovokcjve5rh29zi9gxgnrczrh3jdnv5"
+}

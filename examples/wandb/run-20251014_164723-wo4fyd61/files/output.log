@@ -1,0 +1,34 @@
+Iteration 0: loss=0.710, reward_mean=16.3, reward_bound=18.5
+Iteration 1: loss=0.686, reward_mean=23.5, reward_bound=25.0
+Iteration 2: loss=0.678, reward_mean=25.8, reward_bound=32.0
+Iteration 3: loss=0.669, reward_mean=28.2, reward_bound=29.5
+Iteration 4: loss=0.641, reward_mean=47.8, reward_bound=55.0
+Iteration 5: loss=0.641, reward_mean=43.8, reward_bound=43.0
+Iteration 6: loss=0.639, reward_mean=38.4, reward_bound=37.5
+Iteration 7: loss=0.625, reward_mean=52.4, reward_bound=55.0
+Iteration 8: loss=0.621, reward_mean=56.4, reward_bound=64.5
+Iteration 9: loss=0.610, reward_mean=58.8, reward_bound=70.0
+Iteration 10: loss=0.594, reward_mean=47.0, reward_bound=45.0
+Iteration 11: loss=0.578, reward_mean=63.9, reward_bound=76.5
+Iteration 12: loss=0.600, reward_mean=76.2, reward_bound=72.5
+Iteration 13: loss=0.579, reward_mean=71.2, reward_bound=94.0
+Iteration 14: loss=0.570, reward_mean=101.6, reward_bound=134.0
+Iteration 15: loss=0.566, reward_mean=102.2, reward_bound=124.0
+Iteration 16: loss=0.574, reward_mean=90.3, reward_bound=119.5
+Iteration 17: loss=0.567, reward_mean=82.2, reward_bound=101.5
+Iteration 18: loss=0.560, reward_mean=81.2, reward_bound=91.5
+Iteration 19: loss=0.555, reward_mean=111.3, reward_bound=128.5
+Iteration 20: loss=0.556, reward_mean=120.8, reward_bound=130.0
+Iteration 21: loss=0.577, reward_mean=115.0, reward_bound=126.5
+Iteration 22: loss=0.554, reward_mean=132.4, reward_bound=153.5
+Iteration 23: loss=0.548, reward_mean=150.3, reward_bound=151.5
+Iteration 24: loss=0.550, reward_mean=178.8, reward_bound=205.5
+Iteration 25: loss=0.540, reward_mean=141.6, reward_bound=153.0
+Iteration 26: loss=0.544, reward_mean=144.2, reward_bound=157.0
+Iteration 27: loss=0.544, reward_mean=136.9, reward_bound=152.0
+Iteration 28: loss=0.555, reward_mean=146.6, reward_bound=165.0
+Iteration 29: loss=0.532, reward_mean=151.4, reward_bound=171.0
+Iteration 30: loss=0.543, reward_mean=185.5, reward_bound=201.5
+Iteration 31: loss=0.549, reward_mean=201.0, reward_bound=233.5
+Solved!
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.
