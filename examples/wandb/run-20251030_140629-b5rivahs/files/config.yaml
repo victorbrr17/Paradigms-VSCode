@@ -1,0 +1,53 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            03olxw1cl8754e9he8tkz7yv23v83hs1:
+                codePath: examples\M3-1_Example_1 (NN on CartPole).ipynb
+                codePathLocal: M3-1_Example_1 (NN on CartPole).ipynb
+                cpu_count: 10
+                cpu_count_logical: 16
+                cudaVersion: "12.7"
+                disk:
+                    /:
+                        total: "510683058176"
+                        used: "224611164160"
+                email: victorbrr17@gmail.com
+                executable: c:\Users\victo\anaconda3\envs\gym_env1\python.exe
+                git:
+                    commit: 33d88a8df14255b13f852d513d1d6a3c4412b5d6
+                    remote: https://github.com/victorbrr17/Paradigms.git
+                gpu: NVIDIA GeForce RTX 3050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 2048
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce RTX 3050 Laptop GPU
+                      uuid: GPU-b41f6ac5-405f-0f45-c25b-8011bdf3a682
+                host: Asus17
+                memory:
+                    total: "16782184448"
+                os: Windows-10-10.0.26100-SP0
+                program: c:\Users\victo\OneDrive\Escriptori\3r\Paradigms\examples\M3-1_Example_1 (NN on CartPole).ipynb
+                python: CPython 3.10.18
+                root: c:\Users\victo\OneDrive\Escriptori\3r\Paradigms\examples
+                startedAt: "2025-10-30T13:06:29.784263Z"
+                writerId: 03olxw1cl8754e9he8tkz7yv23v83hs1
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 61
+            "4": 3.10.18
+            "5": 0.22.2
+            "8":
+                - 1
+                - 3
+            "12": 0.22.2
+            "13": windows-amd64
